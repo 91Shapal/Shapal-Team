@@ -1,7 +1,310 @@
 !DOCTYPE html>
 <html>
-  <head></head>
-  <body class="home page-template-default page page-id-559 theme-woodmart woocommerce-js wrapper-wide form-style-semi-rounded form-border-width-2 categories-accordion-on woodmart-ajax-shop-on offcanvas-sidebar-mobile offcanvas-sidebar-tablet notifications-sticky hide-larger-price btns-default-rounded btns-default-dark btns-default-hover-dark btns-shop-rounded btns-shop-light btns-shop-hover-light btns-accent-flat btns-accent-light btns-accent-hover-light elementor-default elementor-kit-85210 elementor-page elementor-page-559 e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="desktop">
+	<head></head>
+	<html lang="tr" data-darkreader-mode="dynamic" data-darkreader-scheme="dark" class="browser-Chrome platform-Windows"><head><style class="darkreader darkreader--fallback" media="screen"></style><style class="darkreader darkreader--text" media="screen"></style><style class="darkreader darkreader--invert" media="screen">.jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, span#closed_text > img[src^="https://www.gstatic.com/images/branding/googlelogo"], span[data-href^="https://www.hcaptcha.com/"] > #icon, #bit-notification-bar-iframe, ::-webkit-calendar-picker-indicator {
+    filter: invert(100%) hue-rotate(180deg) contrast(90%) !important;
+}</style><style class="darkreader darkreader--inline" media="screen">[data-darkreader-inline-bgcolor] {
+  background-color: var(--darkreader-inline-bgcolor) !important;
+}
+[data-darkreader-inline-bgimage] {
+  background-image: var(--darkreader-inline-bgimage) !important;
+}
+[data-darkreader-inline-border] {
+  border-color: var(--darkreader-inline-border) !important;
+}
+[data-darkreader-inline-border-bottom] {
+  border-bottom-color: var(--darkreader-inline-border-bottom) !important;
+}
+[data-darkreader-inline-border-left] {
+  border-left-color: var(--darkreader-inline-border-left) !important;
+}
+[data-darkreader-inline-border-right] {
+  border-right-color: var(--darkreader-inline-border-right) !important;
+}
+[data-darkreader-inline-border-top] {
+  border-top-color: var(--darkreader-inline-border-top) !important;
+}
+[data-darkreader-inline-boxshadow] {
+  box-shadow: var(--darkreader-inline-boxshadow) !important;
+}
+[data-darkreader-inline-color] {
+  color: var(--darkreader-inline-color) !important;
+}
+[data-darkreader-inline-fill] {
+  fill: var(--darkreader-inline-fill) !important;
+}
+[data-darkreader-inline-stroke] {
+  stroke: var(--darkreader-inline-stroke) !important;
+}
+[data-darkreader-inline-outline] {
+  outline-color: var(--darkreader-inline-outline) !important;
+}
+[data-darkreader-inline-stopcolor] {
+  stop-color: var(--darkreader-inline-stopcolor) !important;
+}</style><style class="darkreader darkreader--variables" media="screen">:root {
+   --darkreader-neutral-background: #131516;
+   --darkreader-neutral-text: #d8d4cf;
+   --darkreader-selection-background: #004daa;
+   --darkreader-selection-text: #e8e6e3;
+}</style><style class="darkreader darkreader--root-vars" media="screen"></style><style class="darkreader darkreader--user-agent" media="screen">html {
+    background-color: #181a1b !important;
+}
+html, body, input, textarea, select, button {
+    background-color: #181a1b;
+}
+html, body, input, textarea, select, button {
+    border-color: #736b5e;
+    color: #e8e6e3;
+}
+a {
+    color: #3391ff;
+}
+table {
+    border-color: #545b5e;
+}
+::placeholder {
+    color: #b2aba1;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    background-color: #555b00 !important;
+    color: #e8e6e3 !important;
+}
+::-webkit-scrollbar {
+    background-color: #202324;
+    color: #aba499;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #454a4d;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #575e62;
+}
+::-webkit-scrollbar-thumb:active {
+    background-color: #484e51;
+}
+::-webkit-scrollbar-corner {
+    background-color: #181a1b;
+}
+::selection {
+    background-color: #004daa !important;
+    color: #e8e6e3 !important;
+}
+::-moz-selection {
+    background-color: #004daa !important;
+    color: #e8e6e3 !important;
+}</style>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.kartelahali.com/xmlrpc.php">
+
+	<title>Ana Sayfa | Kartela Halı</title><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato%3A100%2C100italic%2C300%2C300italic%2C400%2C400italic%2C700%2C700italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRaleway%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A400%2C500%7CRaleway%3A300&amp;subset=latin-ext&amp;display=swap">
+<meta name="robots" content="max-image-preview:large">
+<meta name="description" content="[rev_slider alias=" slider-3"="" slidertitle="Slider 3" ][="" rev_slider]="" her="" gün="" yenilenen="" indirimleri="" keşfet="" Ürünleri="" İncele="" haftanın="" en="" yeni,..."="">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://www.kartelahali.com/">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Ana Sayfa, Kartela Halı">
+<meta property="og:description" content="[rev_slider alias=" slider-3"="" slidertitle="Slider 3" ][="" rev_slider]="" her="" gün="" yenilenen="" indirimleri="" keşfet="" Ürünleri="" İncele="" haftanın="" en="" yeni,..."="">
+<meta property="og:url" content="https://www.kartelahali.com/">
+<meta property="og:site_name" content="Kartela Halı">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link href="https://fonts.gstatic.com" crossorigin="" rel="preconnect">
+<link rel="alternate" type="application/rss+xml" title="Kartela Halı » beslemesi" href="https://www.kartelahali.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Kartela Halı » yorum beslemesi" href="https://www.kartelahali.com/comments/feed/">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.kartelahali.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="wc-blocks-vendors-style-css" href="https://www.kartelahali.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=5.9.1" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="wc-blocks-style-css" href="https://www.kartelahali.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=5.9.1" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="wp-components-css" href="https://www.kartelahali.com/wp-includes/css/dist/components/style.min.css?ver=5.8" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="wp-block-editor-css" href="https://www.kartelahali.com/wp-includes/css/dist/block-editor/style.min.css?ver=5.8" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="wp-nux-css" href="https://www.kartelahali.com/wp-includes/css/dist/nux/style.min.css?ver=5.8" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="wp-reusable-blocks-css" href="https://www.kartelahali.com/wp-includes/css/dist/reusable-blocks/style.min.css?ver=5.8" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="wp-editor-css" href="https://www.kartelahali.com/wp-includes/css/dist/editor/style.min.css?ver=5.8" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="nta_whatsapp-style-css-css" href="https://www.kartelahali.com/wp-content/plugins/whatsapp-for-wordpress/dist/blocks.style.build.css?ver=5.8" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://www.kartelahali.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.3.3" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="nta-css-popup-css" href="https://www.kartelahali.com/wp-content/plugins/whatsapp-for-wordpress/assets/css/style.css?ver=5.8" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="jet-woo-builder-css" href="https://www.kartelahali.com/wp-content/plugins/jet-woo-builder%202/assets/css/jet-woo-builder.css?ver=1.4.1.1" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<style id="jet-woo-builder-inline-css" type="text/css">
+@font-face {
+			font-family: "WooCommerce";
+			src: url("https://www.kartelahali.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot");
+			src: url("https://www.kartelahali.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?#iefix") format("embedded-opentype"),
+				url("https://www.kartelahali.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff") format("woff"),
+				url("https://www.kartelahali.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf") format("truetype"),
+				url("https://www.kartelahali.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg#WooCommerce") format("svg");
+			font-weight: normal;
+			font-style: normal;
+			}
+</style><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="jet-woo-builder-frontend-css" href="https://www.kartelahali.com/wp-content/plugins/jet-woo-builder%202/assets/css/lib/jetwoobuilder-frontend-font/css/jetwoobuilder-frontend-font.css?ver=1.4.1.1" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="jet-elements-css" href="https://www.kartelahali.com/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.2.12" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="jet-elements-skin-css" href="https://www.kartelahali.com/wp-content/plugins/jet-elements/assets/css/jet-elements-skin.css?ver=2.2.12" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="elementor-icons-css" href="https://www.kartelahali.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="elementor-frontend-legacy-css" href="https://www.kartelahali.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.4.5" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="elementor-frontend-css" href="https://www.kartelahali.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.5" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<style id="elementor-frontend-inline-css" type="text/css">
+@font-face{font-family:eicons;src:url(https://www.kartelahali.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(https://www.kartelahali.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.kartelahali.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.kartelahali.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.kartelahali.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.kartelahali.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+</style><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="elementor-post-85210-css" href="https://www.kartelahali.com/wp-content/uploads/elementor/css/post-85210.css?ver=1634654122" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="elementor-post-559-css" href="https://www.kartelahali.com/wp-content/uploads/elementor/css/post-559.css?ver=1634654122" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="bootstrap-css" href="https://www.kartelahali.com/wp-content/themes/woodmart/css/bootstrap.min.css?ver=5.3.2" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="woodmart-style-css" href="https://www.kartelahali.com/wp-content/themes/woodmart/css/style-elementor.min.css?ver=5.3.2" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="e-animations-css" href="https://www.kartelahali.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.5" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="xts-style-header_528910-css" href="https://www.kartelahali.com/wp-content/uploads/2021/01/xts-header_528910-1611839715.css?ver=5.3.2" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="xts-style-theme_settings_default-css" href="https://www.kartelahali.com/wp-content/uploads/2021/04/xts-theme_settings_default-1618070101.css?ver=5.3.2" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="child-style-css" href="https://www.kartelahali.com/wp-content/themes/woodmart-child/style.css?ver=5.3.2" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+
+
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="https://www.kartelahali.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="https://www.kartelahali.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" type="text/css" media="all"><style class="darkreader darkreader--sync" media="screen"></style>
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Maalesef, bu ürün mevcut değil. Lütfen farklı bir kombinasyon seçin.</p>
+</script>
+<script type="text/javascript" src="https://www.kartelahali.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script><meta name="darkreader" content="42864bc400c64566966d1e8fa16a9655"><style class="darkreader darkreader--override" media="screen">.vimvixen-hint {
+    background-color: #7b5300 !important;
+    border-color: #d8b013 !important;
+    color: #f3e8c8 !important;
+}
+::placeholder {
+    opacity: 0.5 !important;
+}
+a[href="https://coinmarketcap.com/"] > svg[width="94"][height="16"] > path {
+    fill: var(--darkreader-neutral-text) !important;
+}
+#edge-translate-panel-body {
+    color: var(--darkreader-neutral-text) !important;
+}
+gr-main-header {
+    background-color: #0f3a48 !important;
+}
+embed[type="application/pdf"] { filter: invert(100%) contrast(90%); }</style>
+<script type="text/javascript" src="https://www.kartelahali.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.kartelahali.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.3.3" id="tp-tools-js"></script>
+<script type="text/javascript" src="https://www.kartelahali.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.3.3" id="revmin-js"></script>
+<script type="text/javascript" id="nta-js-popup-js-extra">
+/* <![CDATA[ */
+var ntawaAjax = {"url":"https:\/\/www.kartelahali.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.kartelahali.com/wp-content/plugins/whatsapp-for-wordpress/assets/js/main.js?ver=5.8" id="nta-js-popup-js"></script>
+<link rel="https://api.w.org/" href="https://www.kartelahali.com/wp-json/"><link rel="alternate" type="application/json" href="https://www.kartelahali.com/wp-json/wp/v2/pages/559"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.kartelahali.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.kartelahali.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8">
+<meta name="generator" content="WooCommerce 5.8.0">
+<link rel="shortlink" href="https://www.kartelahali.com/">
+<link rel="alternate" type="application/json+oembed" href="https://www.kartelahali.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.kartelahali.com%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.kartelahali.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.kartelahali.com%2F&amp;format=xml">
+        <style>
+            .wa__stt_offline{
+                pointer-events: none;
+            }
+
+            .wa__button_text_only_me .wa__btn_txt{
+                padding-top: 16px !important;
+                padding-bottom: 15px !important;
+            }
+
+            .wa__popup_content_item .wa__cs_img_wrap{
+                width: 48px;
+                height: 48px;
+            }
+
+            .wa__popup_chat_box .wa__popup_heading{
+                background: #2db742;
+            }
+
+            .wa__btn_popup .wa__btn_popup_icon{
+                background: #2db742;
+            }
+
+            .wa__popup_chat_box .wa__stt{
+                border-left: 2px solid  #2db742;
+            }
+
+            .wa__popup_chat_box .wa__popup_heading .wa__popup_title{
+                color: #fff;
+            }
+
+            .wa__popup_chat_box .wa__popup_heading .wa__popup_intro{
+                color: #fff;
+                opacity: 0.8;
+            }
+
+            .wa__popup_chat_box .wa__popup_heading .wa__popup_intro strong{
+
+            }
+
+            
+        </style><style class="darkreader darkreader--sync" media="screen"></style>
+
+        <meta name="theme-color" content="">			<link rel="shortcut icon" href="https://www.kartelahali.com/wp-content/themes/woodmart/images/icons/favicon.png">
+			<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.kartelahali.com/wp-content/themes/woodmart/images/icons/apple-touch-icon-152x152-precomposed.png">
+			<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by Slider Revolution 6.3.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+<style>		
+		
+		</style><style class="darkreader darkreader--sync" media="screen"></style><style>#rev_slider_44_1_wrapper { height: 473.6559139784946px }</style><style class="darkreader darkreader--sync" media="screen"></style><link rel="prefetch" href="https://www.kartelahali.com/product-category/hayvanlar/"><link rel="prefetch" href="https://www.kartelahali.com/product-category/oturma-odasi/"><link rel="prefetch" href="https://www.kartelahali.com/product-category/salon/"><link rel="prefetch" href="https://www.kartelahali.com/product/seksek-antibakteriyel-leke-tutmaz-cocuk-halisi-copy/"><link rel="prefetch" href="https://www.kartelahali.com/product/prag-12-102-baskili-yikanabilir-kaymaz-taban-salon-halisi/"><link rel="prefetch" href="https://www.kartelahali.com/"></head>
+
+<body class="home page-template-default page page-id-559 theme-woodmart woocommerce-js wrapper-wide form-style-semi-rounded form-border-width-2 categories-accordion-on woodmart-ajax-shop-on offcanvas-sidebar-mobile offcanvas-sidebar-tablet notifications-sticky hide-larger-price btns-default-rounded btns-default-dark btns-default-hover-dark btns-shop-rounded btns-shop-light btns-shop-hover-light btns-accent-flat btns-accent-light btns-accent-hover-light elementor-default elementor-kit-85210 elementor-page elementor-page-559 e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="desktop">
 
 	
 		
@@ -1215,7 +1518,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <li class="menu-item item-level-0 menu-item-wishlist">			<a href="https://www.kartelahali.com/wishlist/" class="woodmart-nav-link">
 				<span class="nav-link-text">İstek Listesi</span>
 			</a>
-		</li><li class="menu-item item-level-0 menu-item-compare"><a href="https://www.kartelahali.com/">Karşılaştır</a></li><li class="menu-item item-level-0  my-account-with-text login-side-opener menu-item-register"><a href="https://www.kartelahali.com/my-account/">Giriş Yap/Üye Ol</a></li></ul></div></div>
+		</li><li class="menu-item item-level-0 menu-item-compare"><a href="https://www.kartelahali.com/">Karşılaştır</a></li><li class="menu-item item-level-0 my-account-with-text login-side-opener menu-item-register"><a href="https://www.kartelahali.com/my-account/">Giriş Yap/Üye Ol</a></li></ul></div></div>
 		</div><!--END MOBILE-NAV-->			<div class="cart-widget-side">
 				<div class="widget-heading">
 					<h3 class="widget-title">Sepetim</h3>
@@ -1281,7 +1584,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 					<a href="https://www.kartelahali.com/my-account/?action=register" class="btn btn-style-link btn-color-primary create-account-button">Hesap oluştur</a>
 				</div>
 			</div>
-					<a href="#" class="scrollToTop button-show">Yukarı Kaydır</a>
+					<a href="#" class="scrollToTop">Yukarı Kaydır</a>
 		<!-- Root element of PhotoSwipe. Must have class pswp. -->
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
 
@@ -1349,4 +1652,4 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 
 </div>
 
-</small><span id="elementor-device-mode" class="elementor-screen-only"></span></body>
+</small><span id="elementor-device-mode" class="elementor-screen-only"></span></body></html>
