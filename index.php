@@ -32,9 +32,15 @@
         <div class="intro__inner">
             <h2 class="intro__suptitle">Welcome To</h2>
             <h1 class="intro__title">Shapal Industry</h1>
-            <a class="btn" href="#">Instagram</a>
-            <a class="btn" href="#">Telegram</a>
-            <a class="btn" href="#">YouTube</a>
+           <form action='https://www.youtube.com/channel/UCn1YQ4g_kKwJbt0MUVZfY7A' target='_blank'>
+        <button class="button button1">Telegram</button>
+        </form>
+        <form action='https://instagram.com/sakyevv_?utm_medium=copy_link' target='_blank'>
+        <button class="button button2">Instagram</button>
+        </form>
+ <form action='https://www.youtube.com/watch?v=ooxFCgGwMkc' target='_blank'>
+        <button class="button button2">YouTube</button>
+
         </div>
     </div>
     <div class="slider">
