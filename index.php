@@ -18,9 +18,9 @@
             <nav class="nav">
                 <a class="nav__link active" href="#">About</a>
                 <a class="nav__link" href="#">Service</a>
-                <a class="nav__link" href="#">Blog</a>
-                <a class="nav__link" href="#">Work</a>
-                <a class="nav__link" href="#">Contact</a>
+                <a class="nav__link" href="#">Bishkek</a>
+                <a class="nav__link" href="#">Moskovskaya 28</a>
+                <a class="nav__link" href="#">Contact: 0557481010</a>
             </nav>
         </div>
     </div>
