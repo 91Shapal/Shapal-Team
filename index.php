@@ -26,8 +26,6 @@
     </div>
 </header>
  
-<img src='https://static.tildacdn.com/tild3465-6263-4338-a664-356664363933/113.png' alt='Uluk' style='width:200px;height:300px; margin-left: 900px;border-radius:50%;'>
-
 <div class="intro">
     <div class="container">
         <div class="intro__inner">
