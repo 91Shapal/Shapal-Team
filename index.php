@@ -32,7 +32,8 @@
             <h2 class="intro__suptitle">Welcome To</h2>
             <h1 class="intro__title">Shapal Industry</h1>
             <a class="btn" href="#">Login</a>
-            <a class="btn" href="#">Sign Up</a> 
+            <a class="btn" href="#">Sign Up</a>
+            <img src='https://static.tildacdn.com/tild3465-6263-4338-a664-356664363933/113.png' alt='Uluk' style='width:200px;height:300px; margin-left: 900px;border-radius:50%;'>
         </div>
     </div>
     <div class="slider">
