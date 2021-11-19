@@ -21,7 +21,7 @@
                 <a class="nav__link" href="#">Bishkek</a>
                 <a class="nav__link" href="#">Moskovskaya 28</a>
                 <a class="nav__link" href="#">Contact: 0557481010</a>
-                <img src='https://cdnn21.img.ria.ru/images/07e4/0a/10/1580060935_0:97:2920:1741_1920x0_80_0_0_21afc44f7800a8dd38e6f47588d7ca0f.jpg' alt='Uluk' style='width:100px;height:100px; margin-left: 900px;border-radius:50%;'>
+                <img src='https://m.media-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_.jpg' alt='Uluk' style='width:100px;height:100px; margin-left: 900px;border-radius:50%;'>
             </nav>
         </div>
     </div>
