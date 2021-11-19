@@ -32,8 +32,9 @@
         <div class="intro__inner">
             <h2 class="intro__suptitle">Welcome To</h2>
             <h1 class="intro__title">Shapal Industry</h1>
-            <a class="btn" href="#">Login</a>
-            <a class="btn" href="#">Sign Up</a>
+            <a class="btn" href="#">Instagram</a>
+            <a class="btn" href="#">Telegram</a>
+            <a class="btn" href="#">YouTube</a>
         </div>
     </div>
     <div class="slider">
