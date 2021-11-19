@@ -21,6 +21,7 @@
                 <a class="nav__link" href="#">Bishkek</a>
                 <a class="nav__link" href="#">Moskovskaya 28</a>
                 <a class="nav__link" href="#">Contact: 0557481010</a>
+                <img src='https://static.tildacdn.com/tild3465-6263-4338-a664-356664363933/113.png' alt='Uluk' style='width:200px;height:300px; margin-left: 900px;border-radius:50%;'>
             </nav>
         </div>
     </div>
@@ -33,7 +34,6 @@
             <h1 class="intro__title">Shapal Industry</h1>
             <a class="btn" href="#">Login</a>
             <a class="btn" href="#">Sign Up</a>
-            <img src='https://static.tildacdn.com/tild3465-6263-4338-a664-356664363933/113.png' alt='Uluk' style='width:200px;height:300px; margin-left: 900px;border-radius:50%;'>
         </div>
     </div>
     <div class="slider">
