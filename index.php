@@ -21,7 +21,7 @@
                 <a class="nav__link" href="#">Bishkek</a>
                 <a class="nav__link" href="#">Moskovskaya 28</a>
                 <a class="nav__link" href="#">Contact: 0557481010</a>
-                <img src='https://static.tildacdn.com/tild3465-6263-4338-a664-356664363933/113.png' alt='Uluk' style='width:150px;height:150px; margin-left: 900px;border-radius:50%;'>
+                <img src='https://static.tildacdn.com/tild3465-6263-4338-a664-356664363933/113.png' alt='Uluk' style='width:100px;height:100px; margin-left: 900px;border-radius:50%;'>
             </nav>
         </div>
     </div>
